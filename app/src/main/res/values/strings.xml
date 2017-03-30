@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework_MapToPoint</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gallery">Gallery</string>
+    <string name="capture">Capture</string>
+    <string name="save">Save</string>
+    <string name="okey">Ok</string>
+    <string name="placename">Максимум символов 20</string>
+    <string name="description">Максимум символов 20</string>
+    <string name="dateofmark">Наберите число в порядке: дд.мм.гггг(01.01.2001)</string>
+    <string name="timeofmark">Наберите число в порядке: чч.вв(00.00)</string>
+</resources>
